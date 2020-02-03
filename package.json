@@ -1,0 +1,12 @@
+{
+  "name": "webpack_react_babel",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "git repository": "https://github.com/pingbong0417/webpack_react_babel.git",
+  "author": "pinbong",
+  "license": "ISC"
+}

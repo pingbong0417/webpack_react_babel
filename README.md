@@ -1,0 +1,1 @@
+Test for creating react project with babel and wepback.
